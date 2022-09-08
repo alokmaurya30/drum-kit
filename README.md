@@ -3,6 +3,6 @@
 [Click here to see Website](https://alokmaurya30.github.io/drum-kit/)
 
 ## Screenshot for Website.
-!(screenshot/ss.png)
+![screenshot](screenshot/ss.png)
 
 
